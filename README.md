@@ -1,1 +1,3 @@
-# heelo-world
+# hello-world
+
+Fixed the spelling
